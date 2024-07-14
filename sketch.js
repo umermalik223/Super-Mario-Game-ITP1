@@ -7,6 +7,7 @@ Created By UMER FAROOQ
 Game interaction
 
 */
+// This is the final version of the game project
 
 
 var gameChar_x;
